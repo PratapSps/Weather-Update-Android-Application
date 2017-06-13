@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WeatherUpdate</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_app">MainApp</string>
+    <string name="SUNNY">SUNNY</string>
+    <string name="CLOUDY">CLOUDY</string>
+    <string name="SNOWFALL">SNOWFALL</string>
+    <string name="RAINY">RAINY</string>
+    <string name="THUNDER">THUNDER</string>
+    <string name="NA">N/A</string>
+    <string name="CITY_NA">CITY N/A</string>
+    <string name="Min">Min :</string>
+    <string name="Maxi">Max :</string>
+    <string name="Humidity">Humidity :</string>
+    <string name="Wind">Wind Speed :</string>
+    <string name="Sunrise">Sunrise :</string>
+    <string name="Sunset">Sunset :</string>
+
+</resources>
